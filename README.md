@@ -14,8 +14,7 @@
 ```
 * Few examples
   * Example 01: Data Distribution across the days of the week ![days_of_week](https://github.com/kadupitiya/goog-preemption-data/blob/master/images/days_of_week.png)
-  
-  *
-  *
-  *
+  * Example 02: Data Distribution across the hours of the day ![hours_of_day](https://github.com/kadupitiya/goog-preemption-data/blob/master/images/hours_of_day.png)
+  * Example 03: Data Distribution across the different VM types ![different_vm_types](https://github.com/kadupitiya/goog-preemption-data/blob/master/images/different_vm_types.png)
+  * Example 04: Data Distribution across the different zones ![zones](https://github.com/kadupitiya/goog-preemption-data/blob/master/images/zones.png)
 
