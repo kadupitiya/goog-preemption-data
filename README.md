@@ -13,7 +13,7 @@
 }
 ```
 * Few examples
-  * Example 01: Data Distribution across the days of the week [days_of_week](https://github.com/kadupitiya/goog-preemption-data/blob/master/images/days_of_week.png)
+  * Example 01: Data Distribution across the days of the week ![days_of_week](https://github.com/kadupitiya/goog-preemption-data/blob/master/images/days_of_week.png)
   
   *
   *
